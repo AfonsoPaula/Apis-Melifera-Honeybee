@@ -67,7 +67,7 @@
 
 <hr>
 
-- Após a aplicação dos modelos, é elaborado um gráfico que contém todas as curvas ROC (_Receiver Operating Characteristic_) e, consequentemente, as suas AUC (_Area under the ROC Curve_), com o propósito de comparar e entender qual dos modelos abordados possui um melhor desempenho. Esta análise permitirá selecionar o modelo mais adequado para fornecer previsões precisas sobre a presença da espécie _Apis-Melifera-Honeybee_ em diferentes regiões da Península Ibérica.
+- Após a aplicação dos modelos, é elaborado um gráfico que contém todas as curvas ROC (_Receiver Operating Characteristic_) e, consequentemente, as suas AUC (_Area Under the Curve_), com o propósito de comparar e entender qual dos modelos abordados possui um melhor desempenho. Esta análise permitirá selecionar o modelo mais adequado para fornecer previsões precisas sobre a presença da espécie _Apis-Melifera-Honeybee_ em diferentes regiões da Península Ibérica.
 
 <p align="center">
   <img src="https://github.com/AfonsoPaula/Apis-Melifera-Honeybee/assets/67978137/571e8097-f1ce-4580-a67d-7799f37108ac">
