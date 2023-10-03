@@ -12,7 +12,7 @@
 
 <hr>
 
-- O projeto inclui várias etapas, nomeadamente no que diz respeito ao pré-processamento, normalização e divisão dos dados, assim como a aplicação da melhor técnica (_unsersampling_ ou _oversampling_) para equilibrar as classes nos conjuntos previamente divididos, de modo a conseguir desenvolver modelos mais precisos.
+- O projeto inclui várias etapas, nomeadamente no que diz respeito ao pré-processamento, normalização e divisão dos dados, assim como a aplicação da melhor técnica (_undersampling_ ou _oversampling_) para equilibrar as classes nos conjuntos previamente divididos, de modo a conseguir desenvolver modelos mais precisos.
 
 <table align="center">
     <tr>
